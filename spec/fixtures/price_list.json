@@ -1,0 +1,22 @@
+[
+  {
+      "id": "flat-white",
+      "name": "Flat White",
+      "price": 3.0
+  },
+  {
+      "id": "espresso",
+      "name": "Espresso",
+      "price": 2.0
+  },
+  {
+      "id": "bacon-egg-roll",
+      "name": "Bacon & Egg Roll",
+      "price": 5.0
+  },
+  {
+      "id": "bbq-sauce",
+      "name": "BBQ Sauce",
+      "price": 0.0
+  }
+]
